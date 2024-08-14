@@ -1,3 +1,3 @@
-int a=5;
+int age=5;
 int b=10;
 cout<<a<<endl;
